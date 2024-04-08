@@ -1,0 +1,27 @@
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\bin\Debug\Ej1FinalProg2.exe.config
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\bin\Debug\Ej1FinalProg2.exe
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\bin\Debug\Ej1FinalProg2.pdb
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.csproj.AssemblyReference.cache
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.Form1.resources
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.Properties.Resources.resources
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.vAlumnoCurso.resources
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.vCrearCurso.resources
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.vCrearPersona.resources
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.csproj.GenerateResource.cache
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.csproj.CoreCompileInputs.cache
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.exe
+C:\Users\TUP\Downloads\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.pdb
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\bin\Debug\Ej1FinalProg2.exe.config
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\bin\Debug\Ej1FinalProg2.exe
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\bin\Debug\Ej1FinalProg2.pdb
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.Form1.resources
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.vAlumnoCurso.resources
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.vCrearCurso.resources
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.vCrearPersona.resources
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.exe
+C:\Users\Ivan\Desktop\Ivan\Facu\Finales Programacion II\Ej1FinalProg2\Ej1FinalProg2\obj\Debug\Ej1FinalProg2.pdb
